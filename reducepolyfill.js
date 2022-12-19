@@ -15,7 +15,7 @@
     0 is used as the initial value and iteration starts from the 
     next element (index 1 instead of index 0).
 
-    possible ways of calling array map
+    possible ways of calling array reduce
     [].reduce((accumulator, currentValue) => { // })
     [].reduce((accumulator, currentValue, currentIndex) => { // })
     [].reduce((accumulator, currentValue, currentIndex, array) => { // })
