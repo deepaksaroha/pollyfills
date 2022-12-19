@@ -6,7 +6,7 @@
     pass the test implemented by the provided function. It returns 
     a Boolean value.
     
-    possible ways of calling array map
+    possible ways of calling array every
 
     // Arrow function
     [].every((element) => { // })
